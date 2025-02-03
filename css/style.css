@@ -81,7 +81,7 @@ body {
   font-family: 'Roboto', sans-serif;
   word-break: break-word;
   scroll-behavior: smooth;
-  /*background-image: url(../images/dark_bg.png);
+  /*background-image: url(../images/dark_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;*/
@@ -300,7 +300,7 @@ h3 {
   /* H2 heading icon add */
   content: "";
   position: relative;
-  background: url("../images/heading_element.png") no-repeat center;
+  background: url("../images/heading_element.webp") no-repeat center;
   /*background-size: 3.375rem 1.125rem;*/
   display: block;
   width: 60px;
@@ -314,7 +314,7 @@ h3 {
 
 /* White Background */
 .bg_white_textcher {
-  background-image: url(../images/banner_bg.png);
+  background-image: url(../images/banner_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -330,7 +330,7 @@ h3 {
 
 /* Dark Background */
 .bg_dark_textcher {
-  background-image: url(../images/dark_bg.png);
+  background-image: url(../images/dark_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -338,7 +338,7 @@ h3 {
 
 /* Dark Background */
 .bg_yellow_textcher {
-  background-image: url(../images/yellow_bg.png);
+  background-image: url(../images/yellow_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -355,7 +355,7 @@ h3 {
   /* H2 heading icon add */
   content: "";
   position: relative;
-  background: url("../images/heading_element_white.png") no-repeat center;
+  background: url("../images/heading_element_white.webp") no-repeat center;
   /*background-size: 3.375rem 1.125rem;*/
   display: block;
   width: 60px;
@@ -371,7 +371,7 @@ h3 {
   /* H2 heading icon add */
   content: "";
   position: relative;
-  background: url("../images/heading_element_white.png") no-repeat center;
+  background: url("../images/heading_element_white.webp") no-repeat center;
   /*background-size: 3.375rem 1.125rem;*/
   display: block;
   width: 60px;
@@ -486,7 +486,7 @@ header {
 }
 
 header.fix_style {
-  background-image: url(../images/dark_bg.png);
+  background-image: url(../images/dark_bg.webp);
   background-size: cover;
   transition: 0.4s all;
 }
@@ -851,7 +851,7 @@ header.fixed::before {
   right: 0;
   top: 0;
   width: 440px;
-  background-image: url(../images/white_texture.png);
+  background-image: url(../images/white_texture.webp);
   padding: 25px 60px 60px 60px;
   z-index: 999;
   height: 100vh;
@@ -1392,7 +1392,7 @@ header.fixed::before {
   position: absolute;
   height: 55%;
   bottom: 0;
-  background-image: url(../images/banner_bg.png);
+  background-image: url(../images/banner_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -1540,7 +1540,7 @@ header.fixed::before {
 
 .bredcrumb_section.gallery_banner {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/gallery_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/gallery_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1593,7 +1593,7 @@ header.fixed::before {
 
 .bredcrumb_section.review_banner {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/review_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/review_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1690,7 +1690,7 @@ header.fixed::before {
   padding: 30px;
   border-radius: 20px;
   position: relative;
-  background-image: url(../images/review_02.png);
+  background-image: url(../images/review_02.webp);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1803,7 +1803,7 @@ header.fixed::before {
 /* ----------- Footer Css Start ---------- */
 
 footer {
-  /*background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/footer_bg.png);
+  /*background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/footer_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;*/
   position: relative;
@@ -1981,7 +1981,7 @@ footer .copy_right a {
 }
 
 .booking_model .modal-dialog .modal-content {
-  background-image: url(../images/white_texture.png);
+  background-image: url(../images/white_texture.webp);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 60px;
@@ -2072,7 +2072,7 @@ footer .copy_right a {
 .bredcrumb_section.reservationpage_bg {
   position: relative;
   padding: 100px 0;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/reservation_bg.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/reservation_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2091,7 +2091,7 @@ footer .copy_right a {
 
 .bredcrumb_section.reservation_banner {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/reservation_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/reservation_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2100,7 +2100,7 @@ footer .copy_right a {
 
 .bredcrumb_section.reservationpage_1_bg {
   position: relative;
-  background: url(../images/reservation_1_bg.png);
+  background: url(../images/reservation_1_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2113,7 +2113,7 @@ footer .copy_right a {
 
 .resarvation_form.reservationpage_1_bg .form_inner {
   margin-top: 50px;
-  background: url(../images/white_texture.png);
+  background: url(../images/white_texture.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2195,7 +2195,7 @@ iframe#youtubevideo {
   padding-bottom: 150px;
   position: relative;
 
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/about_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/about_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2300,7 +2300,7 @@ iframe#youtubevideo {
   /* H2 heading icon add */
   content: "";
   position: relative;
-  background: url("../images/heading_element.png") no-repeat center;
+  background: url("../images/heading_element.webp") no-repeat center;
   /*background-size: 3.375rem 1.125rem;*/
   display: block;
   width: 60px;
@@ -2535,7 +2535,7 @@ iframe#youtubevideo {
 }
 
 .lb-data .lb-close {
-  background: url(../images/close.png);
+  background: url(../images/close.webp);
   background-size: contain;
 }
 
@@ -2556,7 +2556,7 @@ iframe#youtubevideo {
 
 .bredcrumb_section.chef_banner {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/chef_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/chef_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2752,7 +2752,7 @@ iframe#youtubevideo {
 /* -----------------Menu List Section Start----------- */
 .bredcrumb_section.menu_list {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/menulist_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/menulist_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2912,7 +2912,7 @@ iframe#youtubevideo {
 }
 
 .resarvation_form.rform_bg {
-  background-image: url(../images/formBg.png);
+  background-image: url(../images/formBg.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2920,7 +2920,7 @@ iframe#youtubevideo {
 
 .resarvation_form .form_inner {
   border: var(--img-border);
-  background-image: url(../images/dark_bg.png);
+  background-image: url(../images/dark_bg.webp);
   padding: 40px 50px;
   border-radius: 20px;
   display: flex;
@@ -3064,7 +3064,7 @@ iframe#youtubevideo {
 
 .bredcrumb_section.contact_banner {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/contact_banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/contact_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -3189,7 +3189,7 @@ iframe#youtubevideo {
 
 .bredcrumb_section.blog_list_page {
   position: relative;
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/blog-banner.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/blog-banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -4003,7 +4003,7 @@ iframe#youtubevideo {
   max-width: 1300px;
   padding: 0 0 40px 0;
   margin: 0 auto;
-  background-image: url(../images/video_poster.jpg);
+  background-image: url(../images/video_poster.webp);
   background-position: center;
   background-size: cover;
   border-radius: 20px;
@@ -4114,7 +4114,7 @@ iframe#youtubevideo {
   right: -5px;
   height: 100px;
   width: 10px;
-  background-image: url(../images/count_icon.png);
+  background-image: url(../images/count_icon.webp);
   background-repeat: no-repeat;
   background-size: contain;
   top: 50%;
@@ -4359,7 +4359,7 @@ iframe#youtubevideo {
 
 .discount_section .dish_block .dish_text {
   width: 50%;
-  background-image: url(../images/disocunt_bg.jpg);
+  background-image: url(../images/disocunt_bg.webp);
   border-radius: 20px 0 0 20px;
   padding: 40px;
   height: 100%;
@@ -4439,7 +4439,7 @@ iframe#youtubevideo {
   position: relative;
   padding: 180px 0;
 
-  /*background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/formBg.png);
+  /*background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/formBg.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;*/
@@ -4468,7 +4468,7 @@ iframe#youtubevideo {
 
 .popular_dish_section .dishList_slider::before {
   content: "";
-  background-image: url(../images/ban_02_shape.png);
+  background-image: url(../images/ban_02_shape.webp);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100px;
@@ -4480,7 +4480,7 @@ iframe#youtubevideo {
 
 .popular_dish_section .dishList_slider::after {
   content: "";
-  background-image: url(../images/wing_small.png);
+  background-image: url(../images/wing_small.webp);
   background-repeat: no-repeat;
   background-size: contain;
   width: 50px;
@@ -4607,7 +4607,7 @@ iframe#youtubevideo {
 
 /* ------Testimonial Section Start--------- */
 .testimonial_section {
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/testimonial_bg.png);
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/testimonial_bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -4616,7 +4616,7 @@ iframe#youtubevideo {
 .testimonial_section .testimonial_wraper {
   margin: 50px auto 40px auto;
   max-width: 1300px;
-  background-image: url(../images/white_texture.png);
+  background-image: url(../images/white_texture.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -4628,7 +4628,7 @@ iframe#youtubevideo {
 
 .testimonial_section .testimonial_wraper::before {
   content: "";
-  background-image: url(../images/testi_smiley.png);
+  background-image: url(../images/testi_smiley.webp);
   background-repeat: no-repeat;
   background-size: contain;
   width: 200px;
@@ -4640,7 +4640,7 @@ iframe#youtubevideo {
 
 .testimonial_section .testimonial_wraper::after {
   content: "";
-  background-image: url(../images/tasty_mouth.png);
+  background-image: url(../images/tasty_mouth.webp);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100px;
